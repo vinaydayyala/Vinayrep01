@@ -11,7 +11,7 @@ public class App
     
     public static void met2(  )
     {
-    	System.out.println("Static metHod !");
+    	System.out.println( "Static metHod !");
     }
     
     public static void met3(  )
