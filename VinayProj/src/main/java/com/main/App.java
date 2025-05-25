@@ -6,9 +6,15 @@ public class App
     {
         System.out.println( "Hello World!" );
         met2();
+        met3();
     }
     
     public static void met2(  )
+    {
+    	System.out.println("Static metHod !");
+    }
+    
+    public static void met3(  )
     {
     	System.out.println("Static metHod !");
     }
